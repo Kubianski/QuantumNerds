@@ -11,7 +11,7 @@ const pricingData = [
       { service: "Diagnostyka i wycena", price: "Gratis" },
       { service: "Czyszczenie komputera", price: "od 80 zł" },
       { service: "Wymiana pasty termoprzewodzącej", price: "od 60 zł" },
-      { service: "Instalacja systemu Windows", price: "od 100 zł" },
+      { service: "Instalacja systemu Windows", price: "od 500 zł" },
       { service: "Naprawa laptopa", price: "od 150 zł" },
       { service: "Wymiana dysku HDD na SSD", price: "od 120 zł" },
     ],
