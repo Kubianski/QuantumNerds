@@ -172,7 +172,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-card-foreground mb-1">Adres</h4>
-                  <p className="text-muted-foreground">ul. Komputerowa 15</p>
+                  <p className="text-muted-foreground">ul. Kopijników 67B</p>
                   <p className="text-muted-foreground">00-001 Warszawa</p>
                 </div>
               </div>
