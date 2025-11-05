@@ -146,8 +146,8 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-card-foreground mb-1">Telefon</h4>
-                  <p className="text-muted-foreground">+48 123 456 789</p>
-                  <p className="text-sm text-muted-foreground mt-1">Pon-Pt: 9:00-18:00, Sob: 10:00-14:00</p>
+                  <p className="text-muted-foreground">+48 22 274 23 17</p>
+                  <p className="text-sm text-muted-foreground mt-1">Pon-Pt: 9:00-18:00, Sob: 10:00-21:00</p>
                 </div>
               </div>
             </Card>
@@ -159,7 +159,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-card-foreground mb-1">Email</h4>
-                  <p className="text-muted-foreground">kontakt@techservicepro.pl</p>
+                  <p className="text-muted-foreground">kontakt@quantumnerds.pl</p>
                   <p className="text-sm text-muted-foreground mt-1">Odpowiadamy w ciągu 24h</p>
                 </div>
               </div>
@@ -173,7 +173,7 @@ export function Contact() {
                 <div>
                   <h4 className="font-semibold text-card-foreground mb-1">Adres</h4>
                   <p className="text-muted-foreground">ul. Kopijników 67B</p>
-                  <p className="text-muted-foreground">00-001 Warszawa</p>
+                  <p className="text-muted-foreground">03-274 Warszawa</p>
                 </div>
               </div>
             </Card>
