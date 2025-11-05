@@ -20,7 +20,7 @@ export function Footer() {
                 <Wrench className="h-5 w-5" />
               </div>
               <span className="text-lg font-bold text-card-foreground">
-                TechService<span className="text-primary">Pro</span>
+                Quantum<span className="text-primary">Nerds</span>
               </span>
             </div>
             <p className="text-muted-foreground text-sm leading-relaxed">
@@ -107,10 +107,10 @@ export function Footer() {
           <div>
             <h4 className="font-semibold text-card-foreground mb-4">Kontakt</h4>
             <ul className="space-y-2 text-sm text-muted-foreground">
-              <li>ul. Komputerowa 15</li>
-              <li>00-001 Warszawa</li>
-              <li>+48 123 456 789</li>
-              <li>kontakt@techservicepro.pl</li>
+              <li>ul. Kopijników 67B</li>
+              <li>03-274 Warszawa</li>
+              <li>+48 22 247 23 17</li>
+              <li>kontakt@quantumnerds.pl</li>
             </ul>
             <div className="flex gap-3 mt-4">
               <a
