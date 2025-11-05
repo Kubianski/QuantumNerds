@@ -46,7 +46,7 @@ export function Header() {
               <Wrench className="h-6 w-6" />
             </div>
             <span className="text-xl md:text-2xl font-bold text-foreground">
-              TechService<span className="text-primary">Pro</span>
+              Quantum<span className="text-primary">Nerds</span>
             </span>
           </div>
 
