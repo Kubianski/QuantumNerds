@@ -136,7 +136,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          <p>© 2025 TechServicePro. Wszelkie prawa zastrzeżone.</p>
+          <p>© 2025 QuantumNerds. Wszelkie prawa zastrzeżone.</p>
         </div>
       </div>
     </footer>
