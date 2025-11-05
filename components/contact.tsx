@@ -187,7 +187,7 @@ export function Contact() {
                   <h4 className="font-semibold text-card-foreground mb-1">Godziny otwarcia</h4>
                   <div className="space-y-1 text-muted-foreground">
                     <p>Poniedziałek - Piątek: 9:00 - 18:00</p>
-                    <p>Sobota: 10:00 - 14:00</p>
+                    <p>Sobota: 10:00 - 21:00</p>
                     <p>Niedziela: Nieczynne</p>
                   </div>
                 </div>
